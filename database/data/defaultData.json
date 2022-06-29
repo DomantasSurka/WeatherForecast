@@ -1,0 +1,14 @@
+[
+{"sku":"B-Hat-4","name":"Black Baseball Hat","price":"10.00","suitableWeather":"[\"clear\", \"fog\"]"},
+{"sku":"BL-UMB-5","name":"Black Umbrella","price":"5.40","suitableWeather":"[\"rain\", \"scattered-clouds\", \"light-rain\", \"moderate-rain\", \"heavy-rain\", \"sleet\"]"},
+{"sku":"Coat-H-80","name":"Coat with Hood","price":"80.40","suitableWeather":"[\"scattered-clouds\", \"overcast\", \"light-rain\", \"moderate-rain\", \"heavy-rain\", \"sleet\", \"light-snow\", \"moderate-snow\", \"heavy-snow\"]"},
+{"sku":"T-S-9","name":"T-Shirt","price":"5.40","suitableWeather":"[\"clear\"]"},
+{"sku":"G-Hat-23","name":"Golf Hat","price":"5.80","suitableWeather":"[\"clear\", \"isolated-clouds\", \"fog\"]"},
+{"sku":"H-Coat-6","name":"Heated Coat","price":"80.90","suitableWeather":"[\"light-rain\", \"moderate-rain\", \"heavy-rain\", \"sleet\", \"light-snow\", \"moderate-snow\", \"heavy-snow\"]"},
+{"sku":"Y-Jckt-175","name":"Yellow Jacket","price":"45.60","suitableWeather":"[\"clear\", \"isolated-clouds\", \"scattered-clouds\", \"overcast\", \"light-rain\", \"fog\"]"},
+{"sku":"Vision-8","name":"Night Vision Sunglasses","price":"800.00","suitableWeather":"[\"fog\", \"heavy-snow\", \"na\"]"},
+{"sku":"Sunglasses-5","name":"RayBan Sunglasses","price":"100.00","suitableWeather":"[\"clear\", \"isolated-clouds\", \"scattered-clouds\", \"overcast\"]"},
+{"sku":"Red-Hoodie-94","name":"Red Hoodie","price":"45.00","suitableWeather":"[\"clear\", \"isolated-clouds\", \"scattered-clouds\", \"overcast\"]"},
+{"sku":"Wint-Jckt-8","name":"Two sided Winter Jacket","price":"68.70","suitableWeather":"[\"sleet\", \"light-snow\", \"moderate-snow\", \"heavy-snow\"]"},
+{"sku":"Hoodie-Smile-84","name":"Hoodie with a Smile","price":"90.00","suitableWeather":"[\"na\", \"moderate-rain\"]"}
+]
